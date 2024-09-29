@@ -1,4 +1,4 @@
- # samll-apps Vue, TypeScript, and SCSS
+ # small-apps Vue, TypeScript, and SCSS
 
 ## 1. Habit Tracker
 **Description**: Build an app where users can track daily habits (e.g., exercise, reading). Users can add habits, mark them as completed for the day, and view stats for the week.
